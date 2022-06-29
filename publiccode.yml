@@ -1,0 +1,151 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - content-management
+  - data-collection
+  - document-management
+dependsOn:
+  open:
+    - name: MySQL
+      optional: false
+      version: '5.7'
+      versionMax: ''
+      versionMin: ''
+    - name: PHP
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: '7.2'
+    - name: Apache
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: '2.4'
+description:
+  it:
+    features:
+      - Acquisizione file multimediali
+      - Ricerca e Stampa
+      - Import / Export dati
+      - Gestione Collocazioni
+      - Gestione Movimentazione
+      - |-
+        Strumenti Avanzati di Gestione del Patrimonio e di Valorizzazione Massiva di Dati
+      - Profilazione per la gestione di diversi livelli di accesso al patrimonio
+      - Creazione e Gestione delle schede
+    genericName: Mèmora Backend
+    longDescription: |
+      Mèmora è l’applicativo di **Regione Piemonte** per la descrizione dei
+      patrimoni degli archivi e dei musei pubblici e privati e per la
+      realizzazione di collezioni digitali di immagini, suoni e video. 
+
+
+      Si tratta di uno strumento innovativo sviluppato dal CSI-Piemonte che la
+      Regione offre gratuitamente per rappresentare, far conoscere e valorizzare
+      il patrimonio culturale piemontese. Attraverso un’interfaccia unica è
+      possibile gestire beni di tipologie diverse superando la divisione tra
+      ambito archivistico e museale in favore di una visione complessiva del
+      patrimonio. 
+
+
+      Mèmora si configura come uno strumento a disposizione dei titolari dei
+      beni museali e archivistici e degli operatori orientato alla condivisione
+      e pubblicazione della conoscenza.La componente di catalogazione Mèmora
+      backend applica gli standard nazionali e internazionali di descrizione
+      catalografica, archivistica e biblioteconomica (ICCD, ISAD, ISAAR e NIERA)
+      e consente l’esportazione dei dati nei formati più diffusi: XML, Excel,
+      MARC favorendo l’interoperabilità e la condivisione delle risorse con
+      altri sistemi informativi. Il sistema permette di collegare alle schede
+      descrittive materiale multimediale di diverso tipo (immagini, audio,
+      video…) e di geolocalizzare l’informazione per favorire relazioni tra
+      diversi elementi.
+
+      ​
+
+
+      ## **Funzionalità:**
+
+
+      - **Acquisizione file multimediali** i contenuti testuali possono essere
+
+
+      corredati da immagini, video, audio, documenti digitali e 3D. Il sistema è
+
+
+      in grado di produrre in automatico 6 tipologie di formati.
+
+
+      - **Ricerca e Stampa** su tutto il patrimonio catalogato
+
+      - **Import/Export Dati** nei formati più comuni (PDF, XLS, DOC, XML)
+
+      - **Gestione Collocazioni** per l’identificazione della posizione del bene
+
+      - **Gestione Movimentazione** per il tracciamento dei prestiti
+
+      - **Strumenti Avanzati di Gestione del Patrimonio e di Valorizzazione
+      Massiva di Dati** per la gestione dell’albero gerarchico delle schede:
+      taglia/incolla, ordinamento, assegnazione segnatura definitiva, calcolo
+      della consistenza, stampe, conteggio pezzi e per la gestione dei dati
+      cronologici con la possibilità di esprimere valori in frazioni di secolo.
+    shortDescription: |-
+      Mèmora è l’applicativo per la descrizione dei patrimoni degli archivi edei
+
+      musei pubblici e privati e per la realizzazione di collezionidigitali.
+developmentStatus: stable
+intendedAudience:
+  countries:
+    - it
+  scope:
+    - culture
+isBasedOn:
+  - 'https://github.com/collectiveaccess/providence.git'
+it:
+  conforme:
+    gdpr: false
+    lineeGuidaDesign: true
+    misureMinimeSicurezza: true
+    modelloInteroperabilita: false
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: false
+  riuso:
+    codiceIPA: r_piemon
+legal:
+  authorsFile: |-
+    https://raw.githubusercontent.com/regione-piemonte/CABE/master/Copyrights.txt
+  license: GPL-3.0-only
+  mainCopyrightOwner: Regione Piemonte
+  repoOwner: Regione Piemonte
+localisation:
+  availableLanguages:
+    - it
+  localisationReady: false
+logo: 'https://raw.githubusercontent.com/regione-piemonte/CABE/master/logo.png'
+maintenance:
+  contacts:
+    - email: paola.galliano@csi.it
+      name: Paola Galliano
+  type: internal
+name: Mèmora Backend
+platforms:
+  - web
+  - windows
+  - mac
+  - linux
+releaseDate: '2022-06-30'
+softwareType: standalone/web
+softwareVersion: 3.4.0
+url: 'https://github.com/regione-piemonte/CABE.git'
+usedBy:
+  - Regione Piemonte
+  - Museo Nazionale del Cinema
+  - Museo Regionale di Scienze Naturali
+  - Consiglio regionale del Piemonte
+  - Fondazione Ordine Mauriziano
