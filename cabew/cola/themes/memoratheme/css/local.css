@@ -1,0 +1,16 @@
+/* @import 'default.css'; */
+#navWrapper { right:120px !important;}
+a, a:link, a:visited, a font { color: #0096D8; text-decoration: none; }
+#leftNav h2 a:hover{color: #0096D8;}
+#footerContainer { background-color: #2E3538;}
+#footer{background-color: #2E3538;}
+#leftNav h2 a.sf-menu-selected { color:#000; background-color: #8BD6D8;}
+a.sf-menu-disabled-selected, #leftNav h2 a.sf-menu-disabled-selected {color:#000;background-color: #8BD6D8;}
+.bundleLabel {color: #000;background-color: #39C1C4;}
+.hierNav a {color: #0096D8;}
+.portlet-header {color: #000;background-color: #39C1C4;}
+.recordTitle {font-size: 14px;color: #53C5D5;}
+.sf-menu a, .sf-menu a:link, .sf-menu a:visited {text-decoration:none; color:#333; font-weight:normal}
+a.dashboardControl {text-decoration:none; color: #777;}
+.hierarchyPanelHeader a {text-decoration: none; color: #1ab3c8;}
+.hierNav a:hover {color: #1ab3c8;}

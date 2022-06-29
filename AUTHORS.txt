@@ -1,0 +1,4 @@
+# This is the list of [Project Name] authors for copyright purposes.
+Andrea Favarin  - andrea.favarin@consulenti.csi.it
+Antonio Cassano - antonio.cassano@consulenti.csi.it
+

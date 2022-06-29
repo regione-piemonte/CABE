@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CD>
+  <TSK>ff</TSK>
+  <LIR>i</LIR>
+  <NCT>
+    <NCTR>01</NCTR>
+    <NCTN/>
+    <NCTS><![CDATA[0]]></NCTS>
+  </NCT>
+  <ESC>De Pasquale A.</ESC>
+  <ECP>Archivio Audiovisivo Canavesano</ECP>
+  <RV>
+    <RVE>
+      <RVEL/>
+      <RVER/>
+    </RVE>
+  </RV>
+  <AC/>
+  <OG>
+    <OGT>
+      <OGTD>accessorio fermafilo</OGTD>
+      <OGTB>c</OGTB>
+      <OGTS/>
+      <QNT>
+        <QNTN>2</QNTN>
+        <QNTC/>
+        <QNTO/>
+      </QNT>
+    </OGT>
+  </OG>
+  <SG>
+    <SGT>
+      <SGTI/>
+      <SGTD/>
+    </SGT>
+    <SGL>
+      <SGLT/>
+      <SGLL/>
+      <SGLA/>
+      <SGLS/>
+    </SGL>
+    <DES>
+      <DESI/>
+    </DES>
+    <CLF>
+      <CLFS/>
+      <CLFT/>
+    </CLF>
+    <THS>
+      <THSD/>
+      <THST/>
+    </THS>
+  </SG>
+  <LC>
+    <PVC>
+      <PVCS/>
+      <PVCR/>
+      <PVCP/>
+      <PVCC/>
+      <PVCL/>
+      <PVCE/>
+    </PVC>
+    <PVL/>
+    <PVE/>
+    <LDC>
+      <LDCT/>
+      <LDCQ/>
+      <LDCN/>
+      <LDCC/>
+      <LDCU/>
+      <LDCS/>
+      <LDCM/>
+    </LDC>
+  </LC>
+  <UB>
+    <UBF>
+      <UBFP/>
+      <UBFS/>
+      <UBFT/>
+      <UBFQ/>
+      <UBFU/>
+      <UBFC/>
+    </UBF>
+  </UB>
+  <LA>
+    <PRL/>
+    <PRE/>
+  </LA>
+  <LR>
+    <LRC>
+      <LRCS/>
+      <LRCR/>
+      <LRCP/>
+      <LRCC/>
+      <LRCF/>
+      <LRCL/>
+    </LRC>
+    <LRA/>
+    <LRO/>
+    <LRD/>
+  </LR>
+  <DT>
+    <DTZ>
+      <DTZG/>
+      <DTZS/>
+    </DTZ>
+    <DTS>
+      <DTSI/>
+      <DTSV/>
+      <DTSF/>
+      <DTSL/>
+    </DTS>
+    <DTM>
+      <DTMM/>
+      <DTMS/>
+    </DTM>
+    <ADT>
+      <ADTA/>
+    </ADT>
+  </DT>
+  <AU>
+    <AUF>
+      <AUFB/>
+      <AUFS/>
+      <AUFR>Ente schedatore (ESC)</AUFR>
+      <AUFR>Ente competente (ECP)</AUFR>
+      <AUFR>Fotoamatore (AUFS)</AUFR>
+      <AUFH/>
+    </AUF>
+    <AFB>
+      <AFBD/>
+    </AFB>
+    <AAF>
+      <AAFN>De Pasquale A.</AAFN>
+      <AAFN>Archivio Audiovisivo Canavesano</AAFN>
+      <AAFN>Albert Victor</AAFN>
+      <AAFB/>
+      <AAFH/>
+    </AAF>
+    <AUT>
+      <AUTB/>
+      <AUTS/>
+      <AUTR/>
+      <AUTH/>
+    </AUT>
+    <ATB>
+      <ATBD/>
+      <ATBR/>
+    </ATB>
+  </AU>
+  <PD>
+    <PDF>
+      <PDFN>De Pasquale A.;Archivio Audiovisivo Canavesano;Albert Victor</PDFN>
+      <PDFB/>
+      <PDFA/>
+      <PDFR>Ente schedatore (ESC)</PDFR>
+      <PDFR>Ente competente (ECP)</PDFR>
+      <PDFR>Fotoamatore (AUFS)</PDFR>
+      <PDFL>De Pasquale A.</PDFL>
+      <PDFL>Archivio Audiovisivo Canavesano</PDFL>
+      <PDFL>Albert Victor</PDFL>
+      <PDFC>De Pasquale A.</PDFC>
+      <PDFC>Archivio Audiovisivo Canavesano</PDFC>
+      <PDFC>Albert Victor</PDFC>
+      <PDFD>De Pasquale A.</PDFD>
+      <PDFD>Archivio Audiovisivo Canavesano</PDFD>
+      <PDFD>Albert Victor</PDFD>
+      <PDFM>De Pasquale A.;Archivio Audiovisivo Canavesano;Albert Victor</PDFM>
+      <PDFK/>
+      <PDFH/>
+    </PDF>
+    <TRT/>
+    <STT>
+      <STTA/>
+      <STTS/>
+    </STT>
+  </PD>
+  <RO/>
+  <MT>
+    <MTX/>
+    <MIS/>
+    <FRM/>
+    <FVC>
+      <FVCF/>
+      <FVCP/>
+      <FVCC/>
+      <FVCU/>
+      <FVCN/>
+    </FVC>
+    <FVM/>
+    <MTS/>
+    <FIL/>
+  </MT>
+  <CO>
+    <STC>
+      <STCC/>
+      <STCS/>
+    </STC>
+  </CO>
+  <RS/>
+  <DA>
+    <DSO/>
+    <NSC/>
+  </DA>
+  <TU>
+    <ACQ>
+      <ACQT/>
+      <ACQN/>
+      <ACQD/>
+      <ACQL/>
+    </ACQ>
+    <CDG/>
+    <CPR>
+      <CPRD/>
+    </CPR>
+  </TU>
+  <DO>
+    <FTA/>
+    <BIB>
+      <BIBX/>
+      <NCUN/>
+      <BIBA/>
+      <BIBA/>
+      <BIBA>Cassano, Antonio;Garibaldi, Giuseppe</BIBA>
+      <BIBA/>
+      <BIBD/>
+      <BIBH/>
+      <BIBN/>
+      <BIBI/>
+    </BIB>
+    <BSE>
+      <BSEX/>
+      <BSES>floppy_d</BSES>
+      <BSEA>De Pasquale A.</BSEA>
+      <BSEA>Archivio Audiovisivo Canavesano</BSEA>
+      <BSEA>Albert Victor</BSEA>
+      <BSET>Citazione rapida [Duplicato]</BSET>
+      <BSEL>Bari</BSEL>
+      <BSEL>Certosa di Pavia</BSEL>
+      <BSEE>De Pasquale A.</BSEE>
+      <BSEE>Archivio Audiovisivo Canavesano</BSEE>
+      <BSEE>Albert Victor</BSEE>
+      <BSED>;2100</BSED>
+      <BSEN/>
+      <BSER>De Pasquale A.</BSER>
+      <BSER>Archivio Audiovisivo Canavesano</BSER>
+      <BSER>Albert Victor</BSER>
+      <BSEC>titolo contributo;</BSEC>
+      <BSEK>;</BSEK>
+      <BSEI/>
+    </BSE>
+    <MST>
+      <MSTL/>
+      <MSTL>Beinasco</MSTL>
+      <MSTD/>
+      <MSTD>18/12/2019</MSTD>
+      <MSTO>Twenty Century;Disney</MSTO>
+      <MSTS>Holliwood;Beinasco</MSTS>
+    </MST>
+  </DO>
+  <AD>
+    <ADS>
+      <ADSP>public_access</ADSP>
+      <ADSM/>
+      <ADSD/>
+    </ADS>
+  </AD>
+  <CM>
+    <CMP/>
+    <FUR/>
+    <RVM>
+      <RVMD/>
+      <RVMN/>
+    </RVM>
+  </CM>
+  <AN>
+    <OSS/>
+  </AN>
+</CD>
