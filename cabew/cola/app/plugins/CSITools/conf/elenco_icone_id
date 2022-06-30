@@ -1,0 +1,126 @@
+array(60) {
+  [22]=>
+  string(26) "Root node for object_types"
+  [23]=>
+  string(6) "isad_1"
+  [24]=>
+  string(8) "subfonds"
+  [25]=>
+  string(6) "series"
+  [26]=>
+  string(9) "subseries"
+  [27]=>
+  string(4) "file"
+  [28]=>
+  string(4) "item"
+  [186]=>
+  string(15) "complesso_fondi"
+  [187]=>
+  string(5) "fondo"
+  [188]=>
+  string(8) "subfondo"
+  [189]=>
+  string(11) "super_fondo"
+  [190]=>
+  string(11) "super_fondo"
+  [191]=>
+  string(6) "isad_2"
+  [192]=>
+  string(7) "livello"
+  [278]=>
+  string(6) "isad_3"
+  [279]=>
+  string(6) "isad_4"
+  [280]=>
+  string(8) "unita_ua"
+  [281]=>
+  string(11) "fototipo_ua"
+  [282]=>
+  string(10) "oggetto_ua"
+  [283]=>
+  string(13) "audiovideo_ua"
+  [284]=>
+  string(9) "stampe_ua"
+  [285]=>
+  string(10) "disegni_ua"
+  [286]=>
+  string(11) "fototipo_ud"
+  [287]=>
+  string(9) "stampe_ud"
+  [288]=>
+  string(10) "disegno_ud"
+  [289]=>
+  string(10) "oggetto_ud"
+  [290]=>
+  string(13) "audiovideo_ud"
+  [291]=>
+  string(16) "bibliografico_ud"
+  [368]=>
+  string(13) "bdi_doc_audio"
+  [369]=>
+  string(12) "bdi_doc_foto"
+  [370]=>
+  string(13) "bdi_doc_video"
+  [1879]=>
+  string(15) "doc_integrativi"
+  [1880]=>
+  string(2) "ai"
+  [1881]=>
+  string(2) "vi"
+  [1882]=>
+  string(2) "fi"
+  [1964]=>
+  string(9) "unita_doc"
+  [2020]=>
+  string(11) "video_isad3"
+  [2021]=>
+  string(11) "video_isad4"
+  [2565]=>
+  string(10) "matrice_ud"
+  [4129]=>
+  string(2) "ff"
+  [4130]=>
+  string(7) "arch_ua"
+  [4131]=>
+  string(6) "oac_ua"
+  [4132]=>
+  string(6) "pst_ua"
+  [4133]=>
+  string(5) "fk_ua"
+  [4134]=>
+  string(5) "mi_ua"
+  [4135]=>
+  string(9) "beni_arch"
+  [4136]=>
+  string(8) "folklore"
+  [4137]=>
+  string(3) "oac"
+  [4138]=>
+  string(3) "pst"
+  [4139]=>
+  string(7) "disegno"
+  [4140]=>
+  string(6) "guizzi"
+  [5239]=>
+  string(6) "numism"
+  [7105]=>
+  string(13) "ente_aderente"
+  [7142]=>
+  string(16) "cart_contenitore"
+  [15197]=>
+  string(9) "nu_aggreg"
+  [15198]=>
+  string(9) "numism_ag"
+  [15199]=>
+  string(7) "archivi"
+  [15200]=>
+  string(11) "patr_cultur"
+  [15201]=>
+  string(4) "bnpe"
+  [15830]=>
+  string(3) "bnp"
+}
+
+
+	
+		

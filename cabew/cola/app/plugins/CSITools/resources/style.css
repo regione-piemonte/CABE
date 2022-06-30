@@ -1,0 +1,157 @@
+#cam_tree .dnd, #cam_tree .controls .fa-pencil, #cam_tree .controls .fa-eye {
+    display: none !important;
+}
+
+#cam_tree .treenode-cont:hover .type, #cam_tree .jstree-clicked .type {
+    opacity: 1 !important;
+}
+
+#cam_tree .type {
+    color: #666 !important;
+    font-size: 18px !important;
+}
+
+#cam_tree .jstree-container-ul > li > .treenode-cont .controls {
+        margin-left: 0 !important;
+}
+
+
+#cam_tree .jstree-container-ul > li > .treenode-cont .controls {
+        margin-left: 0 !important;
+}
+
+
+#cam_tree .jstree-proton .treenode-cont.jstree-clicked{
+	border-radius: 0;
+}
+
+#cam_tree .cerchietto {
+	width: 14px;
+    height: 14px;
+    background-color: cadetblue !important;
+}
+
+#cam_tree_selection .deselect-all{
+    color:#efefef;
+    border: none;
+    background: none;
+    font-size: 22px;
+}
+
+#cam_tree .treenode-cont {
+	padding: 3px 0 !important;
+}
+
+#cam_tree .treenode-cont .content {
+    font-size: 13px;
+    font-weight: normal !important;
+}
+
+#cam_tree_selection .count {
+	font-weight: bold;
+    font-size: 1.2em;
+    background-color: white;
+    width: 2em;
+    display: inline-block;
+    height: 1.5em;
+    text-align: center;
+    border-radius: 30%;
+    color: brown;
+}
+
+#cam_tree_selection {
+   	position: fixed;
+    width: 702px;
+    z-index: 998;
+    background: cadetblue;
+    padding-top: 10px;
+    height: 55px;
+    margin-top: -10px;
+    border-top: 10px solid white;
+    box-shadow: inset 0px 0px 8px 2px #2d485e52;
+    color: black;
+}
+
+#cam_tree_container {
+	margin-bottom: 45px;
+	margin-top: 45px;
+}
+
+#cam_tree .jstree-proton .treenode-cont.jstree-clicked {
+	border-radius: 0 !important;
+}
+
+#cam_tree span.icon.jstree-ocl {
+    color: cadetblue;
+}
+
+#cam_tree .label {
+	color: dimgrey;
+}
+
+#leftNavSidebar .csitools-action {
+    display: block;
+    padding-left: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-decoration: none;
+    color: #000;
+    margin: 0 5px 0 0; 
+    border-bottom: 1px solid #f1f1f1;
+    text-transform: none;
+    font-size: 13px;
+    background: #e6e6e6;
+    cursor: pointer;
+}
+
+#leftNavSidebar .csitools-action i{
+    width: 15%;
+    vertical-align: middle
+}
+
+#leftNavSidebar .csitools-action span {
+    display: inline-block;
+    width: 75%;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+#leftNavSidebar .csitools-action:hover {
+    background: white !important;
+    color: cadetblue !important;
+    border-left: 3px solid cadetblue;
+}
+
+.csitools-popup {
+    border-radius: 5px;
+    padding: 10px;
+    background: cadetblue;
+    color: white !important;
+}
+
+.csitools-popup-error {
+    background: #f24040;
+}
+
+#cam_tree .jstree-ocl {
+        position: absolute;
+}
+
+#cam_tree .label {
+        margin-left: 11px;
+}
+
+#cam_tree .csitools-status-icon {
+        padding: 0 0 0 5px;
+}
+
+#csitools-actions-layer {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255,255,255, 0.7);
+}
+
+.CSIToolsActionGroup {
+    padding-bottom: 5px;
+}
